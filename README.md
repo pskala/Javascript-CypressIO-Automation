@@ -13,3 +13,7 @@ yarn add cypress --dev
 ## How to run tests
 
 npx cypress open --config-file "cypress/config/cypress.swaglab.json"
+
+## Authors
+
+Petr Skala

@@ -70,7 +70,7 @@ context('Cart', () => {
 
     })
     it('buy product', () => {
-      let firstName = 'Petr'
+      let firstName = 'bc. Petr'
       let lastname = 'Skala'
       let psc = '68201'
       let CartButton = () => {
