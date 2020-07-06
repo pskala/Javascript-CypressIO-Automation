@@ -1,3 +1,10 @@
 {
-  "projectId": "7t6z3m"
-}
+    "projectId": "7t6z3m",
+    "baseUrl": "https://www.saucedemo.com",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "videoUploadOnPasses": false,
+    "video": false,
+    "trashAssetsBeforeRuns": true,
+    "defaultCommandTimeout": 10000
+  }
